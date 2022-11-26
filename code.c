@@ -10,9 +10,9 @@
 #include <stdio.h>
 
 void rotate_donut_3D(void)
-{                // Originally Code by Andy Sloane https://www.a1k0n.net/2011/07/20/donut-math.html
-  int k;         // by Andy Sloane
-  system("cls"); // C++ Builder
+{                
+  int k;         
+  system("cls"); 
   float A = 0, B = 0, i, j, z[1760];
   char
       b[1760];
